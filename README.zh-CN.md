@@ -1,6 +1,4 @@
-# my_first_midway_project
-
-{{description}}
+# midway roject
 
 ## 快速入门
 
