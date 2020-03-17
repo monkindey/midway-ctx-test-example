@@ -1,6 +1,4 @@
-# midway roject
-
-## QuickStart
+# Midway Project
 
 <!-- add docs here for user -->
 

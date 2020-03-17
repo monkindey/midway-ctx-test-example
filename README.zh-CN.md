@@ -1,8 +1,4 @@
-# midway roject
-
-## 快速入门
-
-<!-- 在此次添加使用文档 -->
+# Midway Project
 
 如需进一步了解，参见 [midway 文档][midway]。
 
